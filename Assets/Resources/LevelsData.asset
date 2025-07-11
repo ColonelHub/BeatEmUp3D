@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42097d34cd8979546a99824123ee957f, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  Data:
+  - EnemiesInLevel: 7
+    SceneryIndex: 2
+  - EnemiesInLevel: 8
+    SceneryIndex: 2
+  - EnemiesInLevel: 9
+    SceneryIndex: 2
+  - EnemiesInLevel: 8
+    SceneryIndex: 3
+  - EnemiesInLevel: 9
+    SceneryIndex: 3
+  - EnemiesInLevel: 10
+    SceneryIndex: 3
+  - EnemiesInLevel: 8
+    SceneryIndex: 1
+  - EnemiesInLevel: 9
+    SceneryIndex: 1
+  - EnemiesInLevel: 12
+    SceneryIndex: 1
